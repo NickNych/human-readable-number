@@ -17,12 +17,12 @@ module.exports = function toReadable(number) {
         `one hundred fifty one`, `one hundred fifty two`, `one hundred fifty three`, `one hundred fifty four`, `one hundred fifty five`, `one hundred fifty six`, `one hundred fifty seven`, `one hundred fifty eight`, `one hundred fifty nine`, `one hundred sixty`,
         `one hundred sixty one`, `one hundred sixty two`, `one hundred sixty three`, `one hundred sixty four`, `one hundred sixty five`, `one hundred sixty six`, `one hundred sixty seven`, `one hundred sixty eight`, `one hundred sixty nine`, `one hundred seventy`,
         `one hundred seventy one`, `one hundred seventy two`, `one hundred seventy three`, `one hundred seventy four`, `one hundred seventy five`, `one hundred seventy six`, `one hundred seventy seven`, `one hundred seventy eight`, `one hundred seventy nine`, `one hundred eighty`,
-        `one hundred eighty one`, `one hundred eighty two`, `one hundred eighty three`, `one hundred eighty four`, `one hundred eighty five`, `six`, `one hundred eighty seven`, `one hundred eighty eight`, `one hundred eighty nine`, `one hundred ninety`,
         `one`, `two`, `three`, `four`, `five`, `six`, `seven`, `eight`, `nine`, `ten`,
     ][number]
 
 }
 /*s
+`one hundred eighty one`, `one hundred eighty two`, `one hundred eighty three`, `one hundred eighty four`, `one hundred eighty five`, `six`, `one hundred eighty seven`, `one hundred eighty eight`, `one hundred eighty nine`, `one hundred ninety`,
 `one hundred ninety one`, `one hundred ninety two`, `one hundred ninety three`, `one hundred ninety four`, `one hundred ninety five`, `one hundred ninety six`, `one hundred ninety seven`, `one hundred ninety eight`, `one hundred ninety nine`, `two hundred`,
 
 /*
