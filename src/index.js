@@ -1,4 +1,4 @@
 module.exports = function toReadable(number) {
-    return [`Zero`, `One`, `Two`, `Three`, `Four`, `Five`, `Six`, `Seven`, `Eight`, `Nine`, `Ten`][number].toLowerCase
+    return [`zero`, `0ne`, `two`, `three`, `four`, `five`, `six`, `seven`, `eight`, `nine`, `ten`][number]
 
 }
